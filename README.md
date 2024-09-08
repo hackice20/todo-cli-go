@@ -11,7 +11,7 @@
    1. **Clone the Repository**
 
       ```bash
-      git clone https://github.com/your-username/todo-cli-go.git
+      git clone https://github.com/hackice20/todo-cli-go.git
       ```
 
    2. **Go Setup**
