@@ -1,5 +1,5 @@
    # Todo-CLI-Go
-   ![](https://github.com/hackice20/todo-cli-go/blob/main/Screenshot%202024-08-19%20085905.png)
+
 
 
    Todo-CLI-Go is a command-line interface (CLI) tool written in Go for managing a simple to-do list. It allows users to add, list, edit, and toggle tasks directly from the command line.
